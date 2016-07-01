@@ -1,0 +1,283 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Microsoft YaHei;
+}
+a { 
+	text-decoration:none;
+} 
+#kuangjia{
+	width: 999px;
+	height: 1499px;
+	margin: 0 auto;
+}
+.top{
+	width: 999px;
+	height: 100px;
+}
+.logo{
+	width: 243px;
+	height: 21px;
+	background-image:url(../images/logo.jpg);
+	margin-top: 41px;
+	margin-left: 39px;
+	float: left;
+}
+.sousuo{
+	width: 227px;
+	height: 28px;
+	border: 1px solid #e5e5e5;
+	background-color: #f1f1f1;
+	float: right;
+	margin-top: 39px;
+	margin-right: 20px;
+}
+#txt{
+	width: 180px;
+	height: 27px;
+	background-color: #f1f1f1;
+	border: 0;
+	padding-left: 15px;
+	color: #979797;
+	float: left;
+}
+#fangdajing{
+	width: 16px;
+	height: 13px;
+	background-image: url(../images/fangdajing_03.jpg);
+	float: right;
+	margin-top: 8px;
+	margin-right: 8px;
+}
+.daohang{
+	width: 999px;
+	height: 59px;
+	text-align: center;
+	line-height: 59px;
+	
+	font-size: 15px;
+}
+.dhanniu{
+	float: left;
+	width: 119px;
+	height: 59px;
+	background-image: url(../images/daohang-bj.jpg);
+	border-right: 1px solid #484848;
+}
+.dhanniu1{
+	float: left;
+	width: 145px;
+	height: 59px;
+	background-image: url(../images/daohang-bj.jpg);
+	border-right: 1px solid #484848;
+}
+.dhanniu8{
+	float: left;
+	width: 133px;
+	height: 59px;
+	background-image: url(../images/daohang-bj.jpg);
+}
+.daohang div a{
+	color: #fff;
+}
+.banner{
+	width: 999px;
+	height: 463px;
+}
+.xwzx{
+	float: left;
+	width: 500px;
+	height: 241px;
+}
+.wljs{
+	float: left;
+	width: 240px;
+	height: 241px;
+	background-color: #f1f1f1;
+}
+.rczp{
+	float: left;
+	width: 259px;
+	height: 241px;
+	background-color: #fbfbfb;
+}
+.biaoti{
+	font-size: 18px;
+	margin-left: 19px;
+	margin-top: 37px;
+	margin-bottom: 30px;
+}
+.xwliebiao li{
+	font-size: 12px;
+	margin-top: 8px;
+	margin-left: 34px;
+	margin-right: 28px;
+}
+.xwliebiao li span a{
+	color: #585858;
+}
+.lb-zuo{
+	float: left;
+}
+.lb-you{
+	float: right;
+	color: #b6b6b6;
+}
+.wljs ul li{
+	list-style-type: none;
+	margin-left: 20px;
+}
+.wljs ul li .lb-you{
+	float: left;
+}
+#jiacu{
+	font-size: 14px;
+}
+.rczp ul li{
+	list-style-type: none;
+	margin-left: 20px;
+}
+#more{
+	width: 66px;
+	height: 19px;
+	margin-top: 60px;
+	margin-left: 25px;
+	float: left;
+}
+#huapen{
+	width: 77px;
+	height: 106px;
+	background-image: url(../images/bj.jpg);
+	float: right;
+	margin-right: 23px;
+	margin-bottom: 15px;
+}
+.tuwen{
+	width: 999px;
+	height: 305px;
+	float: left;
+}
+.twneirong{
+	width: 210px;
+	height: 240px;
+	margin-left: 19px;
+	margin-right: 19px;
+	float: left;
+}
+.twneirong p{
+	color: #565656;
+	font-size: 12px;
+	padding-top: 10px;
+	line-height: 25px;
+}
+.huise{
+	width: 999px;
+	height: 250px;
+	background-color: #e5e5e5;
+	float: left;
+}
+.lianjie-3{
+	color: #636363;
+}
+.hui-li a{
+	color: #636363;
+}
+.hui-zuo-top{
+	width: 452px;
+	height: 57px;
+	border-bottom: 1px solid #c1c1c1;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.hui-zuo{
+	float: left;
+}
+.hui-biaoti{
+	margin-top: 30px;
+	margin-left: 12px;
+	color: #777777;
+	float: left;
+}
+.hui-zuo-neirong{
+	width: 452px;
+	height: 192px;
+}
+.hui-zuo-ul{
+	float: left;
+	padding-left: 40px;
+	color: #636363;
+}
+.hui-li{
+	list-style-type: none;
+	list-style-image:url(../images/jt.png);
+	margin-top: 10px;
+	font-size: 12px;
+	color: #636363;
+}
+.hui-zhong{
+	float: left;
+}
+.hui-zhong-top{
+	width: 150px;
+	height: 57px;
+	border-bottom: 1px solid #c1c1c1;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.hui-zhong-neirong{
+	width: 150px;
+	height: 192px;
+}
+.hui-zhong-ul{
+	float: left;
+	padding-left: 40px;
+	color: #636363;
+}
+.hui-you-top{
+	width: 256px;
+	height: 57px;
+	border-bottom: 1px solid #c1c1c1;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.hui-you{
+	float: left;
+}
+.hui-you-neirong{
+	width: 256px;
+	height: 192px;
+	background-image: url(../images/map.jpg);
+	margin-left: 20px;
+	margin-top: -10px;
+}
+.bottom{
+	width: 999px;
+	height: 81px;
+	float: left;
+}
+.bottom-neirong{
+	width: 999px;
+	margin-left: 22px;
+	margin-top: 24px;
+	color: #8b8b8b;
+	float: left;
+	font-size: 12px;
+}
+.bottom-neirong div{
+	float: left;
+}
+.bottom-neirong span{
+	padding-left: 1px;
+	padding-right: 5px;
+}
+.bottom-neirong a{
+	color: #8b8b8b;
+}
+.banquan{
+	float: left;
+	margin-left: 80px;
+}
+.bottom-neirong img{
+	float: left;
+	padding-left: 8px;
+}
